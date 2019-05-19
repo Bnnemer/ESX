@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\server-data",
+    "\\server-data\\resources",
+    "\\server-data\\resources\\[esx]",
+    "\\server-data\\resources\\[esx]\\[main]",
+    "\\server-data\\resources\\[esx]\\[main]\\esplugin_mysql"
+  ],
+  "SelectedNode": "\\server-data\\resources\\[esx]\\[main]\\esplugin_mysql\\server.lua",
+  "PreviewInSolutionExplorer": false
+}
